@@ -87,7 +87,7 @@ Schaltjahr-Berechnung
 verschiedene Klassen für bessere Struktur
 Kombination mehrerer kleiner Programme in einem Projekt
 
-Result: https://github.com/ellnik/Goroskop/blob/main/goroskop1.png
-Result: https://github.com/ellnik/Goroskop/blob/main/goroskop2.png
-Result: https://github.com/ellnik/Goroskop/blob/main/goroskop3.png
-Result: https://github.com/ellnik/Goroskop/blob/main/goroskop4.png
+Result:https://github.com/ellnik/Goroskop/blob/main/goroskop1.png
+Result:https://github.com/ellnik/Goroskop/blob/main/goroskop2.png
+Result:https://github.com/ellnik/Goroskop/blob/main/goroskop3.png
+Result:https://github.com/ellnik/Goroskop/blob/main/goroskop4.png
